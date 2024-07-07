@@ -288,6 +288,7 @@ export function MainPage() {
                   autoPlay
                   loop
                   muted
+                  playsInline
                   className="rounded-lg"
                 />
               </div>
